@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\Veri_Tabanli_Parti_Secim_İstatistikleri\bin\Debug\Veri_Tabanli_Parti_Secim_İstatistikleri.exe.config
+C:\Users\HP\source\repos\Veri_Tabanli_Parti_Secim_İstatistikleri\bin\Debug\Veri_Tabanli_Parti_Secim_İstatistikleri.exe
+C:\Users\HP\source\repos\Veri_Tabanli_Parti_Secim_İstatistikleri\bin\Debug\Veri_Tabanli_Parti_Secim_İstatistikleri.pdb
+C:\Users\HP\source\repos\Veri_Tabanli_Parti_Secim_İstatistikleri\obj\Debug\Veri_Tabanli_Parti_Secim_İstatistikleri.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\Veri_Tabanli_Parti_Secim_İstatistikleri\obj\Debug\Veri_Tabanli_Parti_Secim_İstatistikleri.FrmOyGirisi.resources
+C:\Users\HP\source\repos\Veri_Tabanli_Parti_Secim_İstatistikleri\obj\Debug\Veri_Tabanli_Parti_Secim_İstatistikleri.Grafikler.resources
+C:\Users\HP\source\repos\Veri_Tabanli_Parti_Secim_İstatistikleri\obj\Debug\Veri_Tabanli_Parti_Secim_İstatistikleri.Properties.Resources.resources
+C:\Users\HP\source\repos\Veri_Tabanli_Parti_Secim_İstatistikleri\obj\Debug\Veri_Tabanli_Parti_Secim_İstatistikleri.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Veri_Tabanli_Parti_Secim_İstatistikleri\obj\Debug\Veri_Tabanli_Parti_Secim_İstatistikleri.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Veri_Tabanli_Parti_Secim_İstatistikleri\obj\Debug\Veri_Tabanli_Parti_Secim_İstatistikleri.exe
+C:\Users\HP\source\repos\Veri_Tabanli_Parti_Secim_İstatistikleri\obj\Debug\Veri_Tabanli_Parti_Secim_İstatistikleri.pdb
